@@ -1,11 +1,9 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Cameron Wilson's Gamedev Portfolio
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      Designing and developing games in Unity and C# professionally since 2017. I’m especially interested in dynamic systems and procedural generation, and I love taking dry, abstract or “hardcore” strategy systems and presenting them in a more approachable or accessible way!
+# baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : cameronallan/cameronallan.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -20,35 +18,36 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/firebrandinfo.md
 
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Cameron Wilson
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : cameron@cortexcollider.com
+#  facebook          : your_username
+  github            : cameronallan
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+#  linkedin          : your_username
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : @CrtxClldrCmrn
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
 
 
 ### Posts ###
-permalink: /blog/:title
+# permalink: /blog/:title
 
 
 ### Collections ###
@@ -87,11 +86,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
+#  - scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      comments: false                                   # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###

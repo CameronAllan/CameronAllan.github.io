@@ -1,7 +1,12 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Systems Design
+  percentage: 70
+  color: success
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Content Generator Design
+  percentage: 60
+  color: success
+
+
+- name: Tech Tree/Progression Design
+  percentage: 60
   color: success
