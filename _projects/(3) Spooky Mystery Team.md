@@ -1,7 +1,7 @@
 ---
 name: Spooky Mystery Team
 tools: [Unity, C#, AR, Mobile]
-image: /_images/spookymystery/SpookyMysteryTeam.png
+image: https://cameronallan.github.io/_images/spookymystery/SpookyMysteryTeam.png
 description: A co-operative AR experience for up to 4 players, where players use their mobile devices to explore a haunted house, fend off cute ghosts, and help the ghosts with their unfinished business.
 ---
 ## Spooky Mystery Team

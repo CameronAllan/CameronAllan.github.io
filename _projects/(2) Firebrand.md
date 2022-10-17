@@ -1,7 +1,7 @@
 ---
 name: Firebrand
 tools: [Unity, C#]
-image: /_images/firebrand/FullScreenHeader.png
+image: https://cameronallan.github.io/_images/firebrand/FullScreenHeader.png
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
 ## Firebrand
@@ -9,9 +9,9 @@ Firebrand was essentially two games, a strategy map where players dispatched the
 ---
 {% raw %}
 {% capture carousel_images %}
-/_images/firebrand/FullScreenHeader.png
-/_images/firebrand/FullscreenStrategyMap.png
-/_images/firebrand/AbilityFeature.png
+https://cameronallan.github.io/_images/firebrand/FullScreenHeader.png
+https://cameronallan.github.io/_images/firebrand/FullscreenStrategyMap.png
+https://cameronallan.github.io/_images/firebrand/AbilityFeature.png
 {% endcapture %}
 {% include elements/carousel.html %}
 {% endraw %}
