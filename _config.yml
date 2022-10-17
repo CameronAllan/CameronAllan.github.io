@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Cameron Wilson's Portfolio
 description         : >-
-                      Designing and developing games in Unity and C# professionally since 2017. I’m especially interested in dynamic systems and procedural generation, and I love taking dry, abstract or “hardcore” strategy systems and presenting them in a more approachable or accessible way!
+                      I've been designing and developing games in Unity and C# professionally since 2018. I’m especially interested in dynamic systems and procedural generation, and I love taking dry, abstract or “hardcore” strategy systems and presenting them in a more approachable or accessible way!
 # baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : cameronallan/cameronallan.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
