@@ -11,6 +11,16 @@ Firekeep is a minimalist, relaxing strategy game about building a tiny, sustaina
 
 ---
 
+{% include elements/video.html id="I2KxhoxN5GQ" %}
+
+---
+
+<p class="text-center">
+{% include elements/button.html link="https://store.steampowered.com/app/1706920/Firekeep/" text="Try the Demo on Steam" %}
+</p>
+
+---
+
 {% capture carousel_images %}
 https://i.imgur.com/86kkOhr.png
 https://i.imgur.com/SdeJV7y.png
@@ -27,8 +37,3 @@ Procedurally generated campaign of individual islands.
 Adaptable tile generation that creates and updates the islands’ terrain seamlessly.
 Complex systems of building effects, environmental effects and resource effects that can combine and cascade.
 
----
-
-<p class="text-center">
-{% include elements/button.html link="https://store.steampowered.com/app/1706920/Firekeep/" text="Steam Page" %}
-</p>

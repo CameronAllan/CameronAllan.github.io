@@ -10,6 +10,9 @@ Firebrand was essentially two games, a strategy map where players dispatched the
 
 ---
 
+{% include elements/video.html id="f_yob6ZYKNA" %}
+
+---
 
 {% capture carousel_images %}
 https://i.imgur.com/sdeAhUQ.png
