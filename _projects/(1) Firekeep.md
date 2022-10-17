@@ -11,7 +11,6 @@ Firekeep is a minimalist, relaxing strategy game about building a tiny, sustaina
 
 ---
 
-{% raw %}
 {% capture carousel_images %}
 https://cameronallan.github.io/_images/firekeep/Fullscreen.png
 https://cameronallan.github.io/_images/firekeep/Firekeep-Screen1.png
@@ -20,7 +19,6 @@ https://cameronallan.github.io/_images/firekeep/Firekeep-Screen3.png
 https://cameronallan.github.io/_images/firekeep/Firekeep-Screen4.png
 {% endcapture %}
 {% include elements/carousel.html %}
-{% endraw %}
 
 ---
 
