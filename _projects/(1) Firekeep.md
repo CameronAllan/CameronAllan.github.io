@@ -1,7 +1,7 @@
 ---
 name: Firekeep
 tools: [Unity, C#]
-image: https://imgur.com/86kkOhr
+image: https://i.imgur.com/86kkOhr.png
 description: Firekeep is a minimalist, relaxing strategy game about building a tiny, sustainable city in the cold void of space.
 
 ---
@@ -12,11 +12,11 @@ Firekeep is a minimalist, relaxing strategy game about building a tiny, sustaina
 ---
 
 {% capture carousel_images %}
-https://imgur.com/86kkOhr
-https://imgur.com/SdeJV7y
-https://imgur.com/z1b3xF9
-https://imgur.com/JpLFpDb
-https://imgur.com/7YybW21
+https://i.imgur.com/86kkOhr.png
+https://i.imgur.com/SdeJV7y.png
+https://i.imgur.com/z1b3xF9.png
+https://i.imgur.com/JpLFpDb.png
+https://i.imgur.com/7YybW21.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
