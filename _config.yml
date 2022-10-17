@@ -18,7 +18,6 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/firebrandinfo.md
 
 
 ### Author Info ###
@@ -40,7 +39,7 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : @CrtxClldrCmrn
+  twitter           : https://twitter.com/CrtxClldrCmrn
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
