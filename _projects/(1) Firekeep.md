@@ -7,7 +7,7 @@ description: Firekeep is a minimalist, relaxing strategy game about building a t
 ---
 
 ## Firekeep
-Firekeep is a minimalist, relaxing strategy game about building a tiny, sustainable city in the cold void of space. Build, combine and upgrade dozens of unique buildings to overcome procedurally-generated islands and keep your fire burning.
+Firekeep is a minimalist, relaxing strategy game about building a tiny, sustainable city in the cold void of space. Build, combine and upgrade dozens of unique buildings to overcome procedurally-generated islands and keep your fire burning. Firekeep was originally intended to be a much smaller, more puzzle-y project, but it quickly became clear that the fun was in creating efficient little networks like a tiny city-builder.
 
 ---
 
