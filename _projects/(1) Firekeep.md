@@ -1,7 +1,7 @@
 ---
 name: Firekeep
 tools: [Unity, C#]
-image: https://cameronallan.github.io/_images/firekeep/Fullscreen.png
+image: https://imgur.com/86kkOhr
 description: Firekeep is a minimalist, relaxing strategy game about building a tiny, sustainable city in the cold void of space.
 
 ---
@@ -12,11 +12,11 @@ Firekeep is a minimalist, relaxing strategy game about building a tiny, sustaina
 ---
 
 {% capture carousel_images %}
-https://cameronallan.github.io/_images/firekeep/Fullscreen.png
-https://cameronallan.github.io/_images/firekeep/Firekeep-Screen1.png
-https://cameronallan.github.io/_images/firekeep/Firekeep-Screen2.png
-https://cameronallan.github.io/_images/firekeep/Firekeep-Screen3.png
-https://cameronallan.github.io/_images/firekeep/Firekeep-Screen4.png
+https://imgur.com/86kkOhr
+https://imgur.com/SdeJV7y
+https://imgur.com/z1b3xF9
+https://imgur.com/JpLFpDb
+https://imgur.com/7YybW21
 {% endcapture %}
 {% include elements/carousel.html %}
 
