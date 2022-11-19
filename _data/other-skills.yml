@@ -1,3 +1,7 @@
+- name: MS Excel/Google Sheets
+  percentage: 95
+  color: success
+
 - name: Systems Design
   percentage: 70
   color: success
